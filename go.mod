@@ -1,3 +1,3 @@
-module github.com/streadway/amqp
+module github.com/supercaimin/amqp
 
 go 1.10
